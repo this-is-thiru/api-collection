@@ -4,3 +4,6 @@
 [submodule "investment-tracker"]
 	path = investment-tracker
 	url = https://github.com/this-is-thiru/investment-tracker_api-collection.git
+[submodule "org-management"]
+	path = org-management
+	url = git@github.com:this-is-thiru/org-management_api-collection.git
