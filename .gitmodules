@@ -1,3 +1,6 @@
 [submodule "fyers-api-v3"]
 	path = fyers-api-v3
 	url = https://github.com/this-is-thiru/Fyers-v3-postman-collection.git
+[submodule "investment-tracker"]
+	path = investment-tracker
+	url = https://github.com/this-is-thiru/investment-tracker_api-collection.git
