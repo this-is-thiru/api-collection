@@ -1,0 +1,3 @@
+[submodule "fyers-api-v3"]
+	path = fyers-api-v3
+	url = https://github.com/this-is-thiru/Fyers-v3-postman-collection.git
